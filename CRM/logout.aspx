@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="logout.aspx.cs" Inherits="CRM.WebForm1" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="logout.aspx.cs" Inherits="CRM.WebForm1" %>
 
 <!DOCTYPE html>
 
@@ -30,12 +30,8 @@
                                 <div class="d-sm-flex justify-content-between">
                                     <div class="field-wrapper">
                                         <asp:Button ID="Buttonlogout" CssClass="btn btn-primary" OnClick="Buttonlogout_Click" runat="server" Text="Yes, logout!" />
-                                        <div class="division">
-                                            <span>OR</span>
+                                        <div class="division" style="font-weight:bold"><p>Note: If you logout you would need to login again</p>
                                         </div>
-                                        <asp:Button ID="Buttongoback" OnClick="Buttongoback_Click" CssClass="btn btn-primary" runat="server" Text="No, go back!" />
-                                        <div class="division" style="font-weight:bold"><p>Note: If you logout you would need to login again</p></div>
-                                    </div>
                                 </div>
                             </div>
                         </form>
