@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -21,11 +21,6 @@ namespace CRM
 
             // Redirect to login page
             Response.Redirect("login.aspx");
-        }
-
-        protected void Buttongoback_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("home.aspx");
         }
     }
 }
