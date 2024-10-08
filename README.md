@@ -1,4 +1,4 @@
-# CRM
+# Customer Management
 - A project made in ASP.NET framework
 - A login page that logs user in based on the connected sql server database
 - Authorises admin login serperately from normal users
