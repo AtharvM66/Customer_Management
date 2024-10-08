@@ -22,7 +22,7 @@
                 <div class="form-container">
                     <div class="form-content">
 
-                        <h1 class=""><span class="brand-name">Project CRM</span></h1>
+                        <h1 class=""><span class="brand-name">Customer Management</span></h1>
                         <form class="text-left" runat="server">
                             <div class="form">
                                 <div id="username-field" class="field-wrapper input">
