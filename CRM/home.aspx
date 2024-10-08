@@ -34,7 +34,7 @@
                     <a href="home.aspx">
                         <img src="assets/img/logo.svg" class="navbar-logo" alt="logo"/>
                     </a>
-                    <a href="home.aspx" style="font-weight:bolder; font-size:larger; margin-right:1150px">Project CRM</a>
+                    <a href="home.aspx" style="font-weight:bolder; font-size:larger; margin-right:1010px">Customer Management</a>
                 </li>
             </ul>
 
